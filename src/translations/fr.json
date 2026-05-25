@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "title": "Mohamed Dyae Chellaf | Développeur Full-Stack",
+    "description": "Portfolio de Mohamed Dyae Chellaf - Élève ingénieur en Génie Logiciel, passionné par le développement Full-Stack et les architectures modernes."
+  },
+  "nav": {
+    "about": "À propos",
+    "skills": "Compétences",
+    "experience": "Expérience",
+    "projects": "Projets",
+    "education": "Formation",
+    "contact": "Contact"
+  },
+  "aria": {
+    "toggleMenu": "Basculer le menu",
+    "toggleTheme": "Changer le thème",
+    "changeLanguage": "Changer la langue"
+  },
+  "hero": {
+    "greeting": "Bonjour, je suis",
+    "name": "Mohamed Dyae Chellaf",
+    "title": "Développeur Full-Stack",
+    "subtitle": "Élève ingénieur en Génie Logiciel à ENSEIRB-MATMECA, passionné par la création d'applications web modernes, scalables et élégantes.",
+    "cta": {
+      "projects": "Voir les projets",
+      "cv": "Télécharger CV",
+      "contact": "Me contacter"
+    }
+  },
+  "about": {
+    "title": "À propos de moi",
+    "subtitle": "Apprendre à me connaître",
+    "p1": "Je suis un développeur Full-Stack passionné, actuellement en dernière année d'ingénierie informatique spécialisé en Génie Logiciel à ENSEIRB-MATMECA Bordeaux-INP. Mon parcours m'a permis de développer une expertise solide dans la conception et le développement d'applications web modernes.",
+    "p2": "Fort d'expériences en France et à l'international (Pays-Bas), je maîtrise les architectures microservices, le développement front-end et back-end, ainsi que les pratiques DevOps et Cloud. Je m'efforce de combiner rigueur technique et créativité pour produire des solutions élégantes et performantes.",
+    "p3": "Passionné par l'innovation technologique, je suis toujours à la recherche de nouveaux défis qui me permettent de repousser mes limites et de contribuer à des projets ayant un impact réel.",
+    "educationTitle": "Parcours académique",
+    "educationSubtitle": "La formation est maintenant intégrée ici pour garder la page plus compacte.",
+    "seeEducation": "Voir formation",
+    "hideEducation": "Masquer formation",
+    "values": {
+      "title": "Mes valeurs",
+      "quality": "Qualité du code",
+      "qualityDesc": "Clean code, tests et bonnes pratiques",
+      "innovation": "Innovation",
+      "innovationDesc": "Technologies modernes et solutions créatives",
+      "collaboration": "Collaboration",
+      "collaborationDesc": "Travail d'équipe et communication efficace",
+      "learning": "Apprentissage continu",
+      "learningDesc": "Veille technologique et amélioration constante"
+    }
+  },
+  "skills": {
+    "title": "Compétences",
+    "subtitle": "Technologies & outils",
+    "categories": {
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "databases": "Bases de données",
+      "languages": "Langages",
+      "cloud": "Cloud",
+      "devops": "DevOps",
+      "tools": "Outils",
+      "testing": "Tests",
+      "ai": "IA"
+    },
+    "seeAll": "Voir tout",
+    "showLess": "Voir moins"
+  },
+  "experience": {
+    "title": "Expérience",
+    "subtitle": "Mon parcours professionnel"
+  },
+  "experiences": {
+    "atos": {
+      "position": "Développeur Full-Stack - Orion IS Transformation",
+      "type": "Stage",
+      "endDate": "Présent",
+      "desc1": "Contribue à la refonte du système d'information Orion, un ERP modulaire et scalable basé sur une architecture microservices, soutenant les besoins actuels et futurs du Groupe Oui Care.",
+      "desc2": "Participe à la conception technique et fonctionnelle d'une plateforme intégrant des systèmes CRM, RH et opérationnels basés sur SAP pour les activités de services à la personne.",
+      "desc3": "Développe des fonctionnalités backend et frontend avec Spring Boot et Angular, en mettant l'accent sur les tests unitaires, la qualité du code et la maintenabilité.",
+      "desc4": "Participe au déploiement et à l'industrialisation des services dans un environnement cloud AWS.",
+      "desc5": "Travaille dans un environnement de développement Agile, participant activement aux cérémonies de sprint et à la collaboration avec des équipes transversales.",
+      "desc6": "Contribue aux modules critiques liés à la facturation, la paie et la comptabilité à travers les différentes marques du groupe."
+    },
+    "labri": {
+      "position": "Ingénieur Développeur Web IA",
+      "type": "Stage",
+      "desc1": "Développement d'une interface web de cartographie pour visualiser plus de 25 000 alertes de collisions en temps réel (Next.js, React, Leaflet, FastAPI).",
+      "desc2": "Conception, labellisation et entraînement d'un module de détection de risque de collisions par Machine Learning (Random Forest, Python, scikit-learn).",
+      "desc3": "Intégration de pipelines de données en temps réel pour le traitement et l'affichage des alertes géolocalisées."
+    },
+    "vtec": {
+      "position": "UX Designer & Développeur Full-Stack",
+      "type": "Stage",
+      "desc1": "Analyse des besoins et rédaction des spécifications fonctionnelles pour de nouvelles fonctionnalités de la plateforme web.",
+      "desc2": "Conception d'interfaces utilisateur sur Figma, avec un fort accent sur la cohérence UX/UI, l'accessibilité et la cohérence visuelle.",
+      "desc3": "Développement front-end avec Angular et Bootstrap, axé sur un design réactif et intuitif.",
+      "desc4": "Construction d'une API REST robuste avec Node.js et Express pour une gestion efficace des données et une communication sécurisée.",
+      "desc5": "Intégration d'AWS DynamoDB (NoSQL) pour le stockage et implémentation de l'authentification utilisateur avec AWS Cognito.",
+      "desc6": "Gestion des flux de données via AWS SDK et API Gateway, garantissant scalabilité et fiabilité.",
+      "desc7": "Collaboration au sein d'une équipe internationale anglophone, participation aux scrums hebdomadaires et revues de code.",
+      "desc8": "Application de la méthodologie Agile avec intégration continue, développement itératif et collaboration transversale.",
+      "desc9": "Contribution à la documentation technique et à l'amélioration continue du cycle de vie produit."
+    },
+    "rabat": {
+      "position": "Développeur Logiciel & Systèmes Réseau",
+      "type": "Stage",
+      "desc1": "Acquisition d'une expérience concrète de l'environnement technique de l'entreprise et de ses outils internes de gestion.",
+      "desc2": "Analyse de l'architecture du réseau local et des serveurs backend afin d'améliorer la centralisation des données et le partage de fichiers.",
+      "desc3": "Contribution à la mise à jour des bases de données internes, à la numérisation des documents administratifs et à la modernisation des processus internes."
+    }
+  },
+  "education": {
+    "title": "Formation",
+    "subtitle": "Mon parcours académique",
+    "enseirb": {
+      "degree": "Diplôme d'ingénieur en informatique, Génie logiciel",
+      "startDate": "sept. 2022",
+      "endDate": "janv. 2026",
+      "desc1": "Cursus d'ingénieur en informatique couvrant les algorithmes, les structures de données, la théorie des langages, la calculabilité, la complexité et la logique.",
+      "desc2": "Programmation en C, C++, Java, Python et JavaScript avec des approches orientées objet, fonctionnelles et systèmes.",
+      "desc3": "Modules d'intelligence artificielle incluant machine learning, deep learning et réseaux de neurones de type CNN et RNN.",
+      "desc4": "Enseignements systèmes et réseaux autour des systèmes d'exploitation, de l'architecture TCP/IP et du développement d'applications pair-à-pair.",
+      "desc5": "Formation en génie logiciel centrée sur les méthodologies agiles, la conception et l'architecture logicielle, ainsi que la gestion de projet.",
+      "desc6": "Mathématiques pour l'informatique avec probabilités, statistiques et recherche opérationnelle."
+    },
+    "ibnGhazi": {
+      "degree": "Classes préparatoires aux grandes écoles (CPGE), Mathématiques et physique",
+      "startDate": "sept. 2021",
+      "endDate": "août 2022",
+      "highlight": "MP* · Classé 208e sur 2 487 au CNC, admis au CCP et admissible à CentraleSupélec.",
+      "desc1": "Année de consolidation en filière MP* avec approfondissement en mathématiques et physique, orientée concours d'entrée aux grandes écoles d'ingénieurs."
+    },
+    "moulayYoussef": {
+      "degree": "Classes préparatoires aux grandes écoles (CPGE), Mathématiques et physique",
+      "startDate": "sept. 2019",
+      "endDate": "juil. 2021",
+      "highlight": "Classé 345e sur 2 579 au CNC Maroc · Admis au CCP.",
+      "desc1": "Formation scientifique intensive en mathématiques, physique et informatique, préparant aux concours marocains et français des écoles d'ingénieurs.",
+      "desc2": "Mathématiques avancées avec analyse, algèbre et probabilités.",
+      "desc3": "Physique fondamentale couvrant la mécanique, l'électromagnétisme, la thermodynamique et l'optique.",
+      "desc4": "Informatique et algorithmique avec programmation Python, structures de données, rigueur scientifique et résolution de problèmes complexes."
+    },
+    "hassan": {
+      "degree": "Lycée scientifique, Sciences mathématiques",
+      "desc1": "Première année du baccalauréat en sciences mathématiques.",
+      "desc2": "Deuxième année du baccalauréat en sciences mathématiques A."
+    }
+  },
+  "projects": {
+    "title": "Projets",
+    "subtitle": "Mes réalisations",
+    "viewCode": "Code source",
+    "viewDemo": "Démo live",
+    "viewWebsite": "Site web",
+    "viewReport": "Rapport",
+    "backToProjects": "Retour aux projets",
+    "notFound": "Projet introuvable",
+    "techStack": "Stack technique",
+    "architecture": "Architecture",
+    "features": "Fonctionnalités clés",
+    "technologies": "Technologies",
+    "seeAll": "Voir plus",
+    "showLess": "Voir moins",
+
+    "traffic": {
+      "title": "Observatoire du Campus",
+      "description": "Application cartographique client-side construite avec SolidJS, Vite et MapLibre GL pour la visualisation en temps réel des données de mobilité du campus : trafic, transports en commun, parkings, vélos, météo et qualité de l'air.",
+      "details": {
+        "features": [
+          "Carte 2D/3D interactive propulsée par MapLibre GL JS avec élévation de terrain et rendu WebGL",
+          "Suivi temps réel des transports en commun (Trams & Bus) via décodage Protobuf GTFS-Realtime",
+          "Analyse du trafic avec normalisation Z-score et coloration des segments routiers",
+          "Simulation animée du trafic avec déplacement de voitures sur des LineStrings GeoJSON via Turf.js",
+          "Widget météo avec calcul AQI conforme aux normes US-EPA (PM2.5, PM10, NO2, O3)",
+          "Recherche floue multimodale via Fuse.js dans des Web Workers avec géocodage Nominatim",
+          "Pipeline de données GTFS compressant 160 Mo+ en JSON optimisé au build",
+          "Disponibilité des parkings et stations vélos (VCUB) via open data Bordeaux Métropole",
+          "Stratégie de test à 4 niveaux : unitaire (Vitest), intégration, composant et E2E (Playwright)",
+          "CI/CD avec GitHub Actions, déploiement edge Vercel et proxy rewrites pour le CORS"
+        ],
+        "architecture": "SPA client-side construite avec SolidJS et Vite pour une réactivité fine sans DOM virtuel. MapLibre GL JS gère le rendu cartographique 2D/3D WebGL. Données issues des APIs CEREMA, TBM GTFS, open-meteo, Bordeaux Métropole et Overpass/OSM, pré-traitées au build. Polling temps réel via proxy Vite (30s GTFS-RT, 5m parkings). Recherche hors thread principal dans des Web Workers avec Fuse.js. Déployé sur Vercel edge CDN.",
+        "techStack": [
+          { "name": "SolidJS", "role": "Framework réactif avec signaux et mises à jour DOM granulaires" },
+          { "name": "TypeScript", "role": "Logique applicative typée pour le frontend et les scripts de build" },
+          { "name": "Vite", "role": "Outil de build avec HMR, proxy CORS et pipeline de pré-traitement" },
+          { "name": "MapLibre GL", "role": "Carte interactive 2D/3D WebGL avec couches personnalisées" }
+        ]
+      }
+    },
+    "campus": {
+      "title": "Analyse Mobilités Campus",
+      "description": "Interface cartographique React pour l'analyse et la visualisation de données de mobilités du campus, avec traitement de vidéos et extraction de métriques via Python/YOLO.",
+      "details": {
+        "features": [
+          "Carte Leaflet interactive avec OpenStreetMap pour visualiser les capteurs du campus",
+          "Double interface avec mode Receiver pour les imports et capteurs, et mode Simulator pour l'analyse",
+          "Détection de véhicules sur vidéo via YOLOv11 couplé à ByteTrack",
+          "Fine-tuning spécifique pour ajouter la détection des trottinettes",
+          "Filtrage statistique par z-score pour supprimer anomalies et doublons",
+          "Graphiques D3.js pour les séries temporelles et la répartition des types de véhicules",
+          "Visualisation heatmap avec coloration par quantiles de densité",
+          "Backend FastAPI pour le CRUD des capteurs, les uploads CSV et les statistiques agrégées",
+          "Traitement vidéo multi-thread pour les longues séquences",
+          "Organisation agile avec sprints hebdomadaires et revues client"
+        ],
+        "architecture": "Architecture client-serveur avec un frontend Next.js basé sur React et TypeScript, Leaflet pour la cartographie et D3.js pour la visualisation. Le backend repose sur une API REST Python FastAPI connectée à PostgreSQL via SQLAlchemy. L'analyse vidéo s'appuie sur YOLOv11 et ByteTrack, et la plateforme s'organise autour des workflows Receiver et Simulator.",
+        "techStack": [
+          { "name": "Next.js", "role": "Framework frontend avec routage et optimisation du rendu" },
+          { "name": "React", "role": "Interface à composants et gestion d'état" },
+          { "name": "Leaflet", "role": "Cartographie interactive avec marqueurs, popups et heatmaps" },
+          { "name": "D3.js", "role": "Graphiques analytiques et distributions sur mesure" },
+          { "name": "FastAPI", "role": "API REST Python avec endpoints documentés" },
+          { "name": "Python", "role": "Logique backend, scripts analytiques et traitement vidéo" },
+          { "name": "YOLO", "role": "Détection temps réel d'objets pour l'analyse de mobilité" },
+          { "name": "PostgreSQL", "role": "Stockage persistant des capteurs et données agrégées" }
+        ]
+      }
+    },
+    "transport": {
+      "title": "Holitrip - Planification de Séjours",
+      "description": "Application modulaire Java de planification de voyages combinant recherche de transports (BFS), hôtels et activités. Architecture propre, 124 tests, 93% de couverture (JaCoCo) et 77% de score de mutation (PIT).",
+      "details": {
+        "features": [
+          "Recherche de transports multi-trajets avec BFS et contraintes de correspondance",
+          "Recherche d'hôtels par ville, note minimale et budget",
+          "Recherche d'activités avec filtrage par catégorie et distance Haversine",
+          "Assemblage automatique de forfaits combinant transport, hébergement et activités",
+          "Intégration d'un service de géocodage pour convertir adresses et coordonnées",
+          "107 tests unitaires isolés avec mocks et injection de dépendances",
+          "17 tests d'intégration validant les interactions de services",
+          "Couverture JaCoCo à 93% sur les instructions et 91% sur les lignes",
+          "Analyse mutationnelle PIT avec 77% de mutants tués",
+          "Architecture orientée services pensée pour la maintenabilité et les tests",
+          "Méthodologie TDD : tests écrits avant l'implémentation pour guider la conception"
+        ],
+        "architecture": "Application Java 17 modulaire construite avec Maven et organisée autour d'interfaces de services et d'implémentations dédiées. Le coeur métier combine routage transport, recherche d'hôtels, recherche d'activités, géocodage, calcul de distances et assemblage de forfaits. La conception privilégie l'injection de dépendances et les doublures de test, tandis que les données proviennent de fichiers JSON.",
+        "techStack": [
+          { "name": "Java", "role": "Langage principal pour la logique métier et l'architecture propre" },
+          { "name": "Maven", "role": "Outil de build et d'orchestration des dépendances" },
+          { "name": "JUnit 5", "role": "Framework de tests unitaires et d'intégration" },
+          { "name": "JaCoCo", "role": "Outil d'analyse de couverture de code" },
+          { "name": "PIT", "role": "Framework de tests par mutation" },
+          { "name": "TDD", "role": "Méthodologie de développement piloté par les tests" }
+        ]
+      }
+    },
+    "collision": {
+      "title": "Détection de Collisions IA",
+      "description": "Plateforme de sécurité routière visualisant 25 000+ alertes CAM/DENM sur une carte Leaflet, avec backend FastAPI et pipeline de prédiction Random Forest sous scikit-learn.",
+      "details": {
+        "features": [
+          "Carte Leaflet interactive pour véhicules, bus, cyclistes et événements DENM",
+          "Filtrage par type d'alerte et station ID avec légende dynamique",
+          "Visualisation de plus de 25 000 alertes issues des messages CAM et DENM",
+          "Backend FastAPI servant des datasets JSON partitionnés pour une navigation fluide",
+          "Prédiction du risque de collision à partir de caractéristiques dérivées des CAM",
+          "Génération automatique de paires proches via seuils spatiaux et temporels",
+          "Labellisation automatique par règles sur vitesse, cap et distances",
+          "Pipeline d'entraînement RandomForestClassifier avec export joblib",
+          "Script de prédiction produisant des sorties `predicted_collision`",
+          "Évaluation avec classification report, matrice de confusion et précision supérieure à 0,94"
+        ],
+        "architecture": "Plateforme en deux parties combinant une application web et un pipeline de machine learning. La couche web repose sur Next.js, React Leaflet et CSS Modules, tandis que le backend utilise FastAPI et des jeux de données JSON stockés localement. En parallèle, un pipeline Python prétraite les trajectoires, génère des paires candidates, labellise les collisions, entraîne un modèle Random Forest via scikit-learn et applique les prédictions à de nouvelles situations.",
+        "techStack": [
+          { "name": "Next.js", "role": "Socle frontend et routage de l'application" },
+          { "name": "Leaflet", "role": "Visualisation interactive des alertes sur carte" },
+          { "name": "FastAPI", "role": "API backend servant les datasets d'alertes filtrés" },
+          { "name": "Python", "role": "Traitement de données, scripts et logique backend" },
+          { "name": "scikit-learn", "role": "Entraînement du modèle et workflows de prédiction" },
+          { "name": "Random Forest", "role": "Classifieur utilisé pour estimer le risque de collision" },
+          { "name": "Machine Learning", "role": "Approche supervisée de détection du risque à partir des CAM" }
+        ]
+      }
+    },
+    "realEstate": {
+      "title": "Gestionnaire d'Annonces Immobilières",
+      "description": "Application full-stack CRUD pour les annonces immobilières, construite avec React + Vite et un backend Express + TypeScript validé avec Zod.",
+      "details": {
+        "features": [
+          "Flux CRUD complet pour les annonces immobilières",
+          "API Express en couches avec routes, services, schémas et middlewares",
+          "Validation centralisée des entrées via un middleware Zod réutilisable",
+          "Frontend React + Vite avec pages liste, détail et formulaire",
+          "Interface moderne inspirée du glassmorphism avec cards et modales réutilisables",
+          "Persistance JSON dans `backend/data/properties.json`"
+        ],
+        "architecture": "Application TypeScript full-stack avec un backend Express et un frontend React + Vite. Le backend sépare routes, services, modèles, schémas et middleware de validation, tandis que le frontend s'organise autour de pages, composants réutilisables, services API et types partagés.",
+        "techStack": [
+          { "name": "React", "role": "Interface frontend et pages routées" },
+          { "name": "TypeScript", "role": "Typage fort côté frontend et backend" },
+          { "name": "Express", "role": "API REST et gestion des requêtes" },
+          { "name": "Zod", "role": "Validation des payloads et cohérence des DTO" },
+          { "name": "Vite", "role": "Outillage frontend et serveur de développement rapide" }
+        ]
+      }
+    },
+    "budget": {
+      "title": "Selego Budget Tracker",
+      "description": "Plateforme de gestion de budgets et dépenses avec tableaux de bord, notifications, alertes email et catégorisation assistée par IA.",
+      "details": {
+        "features": [
+          "Gestion de projets et dépenses avec suivi budgétaire",
+          "Tableau de bord avec statistiques et visibilité sur les dépassements",
+          "Centre de notifications avec alertes email automatiques",
+          "Catégorisation des dépenses assistée par IA",
+          "Pages d'historique, paramètres, recherche et centre d'aide",
+          "Authentification JWT avec accès protégé à l'API"
+        ],
+        "architecture": "Plateforme JavaScript en deux parties avec un frontend React et un backend Node.js + Express adossé à MongoDB. Le backend isole des services tiers comme Brevo, Passport, la catégorisation IA et les uploads S3, tandis que le frontend centralise les accès API et l'état client autour de workflows réutilisables.",
+        "techStack": [
+          { "name": "React", "role": "Interface frontend pour les dashboards et workflows" },
+          { "name": "Tailwind CSS", "role": "Couche de styling utilitaire" },
+          { "name": "Node.js", "role": "Runtime backend de l'API" },
+          { "name": "MongoDB", "role": "Persistance des utilisateurs, projets et dépenses" },
+          { "name": "JWT", "role": "Authentification et accès protégé" },
+          { "name": "AWS", "role": "Intégration d'upload de fichiers via S3" }
+        ]
+      }
+    },
+    "threads": {
+      "title": "Bibliothèque de Threads Utilisateur",
+      "description": "Implémentation en C d'une bibliothèque de threads utilisateur avec préemption optionnelle, priorités, tests, vérifications Valgrind et graphes de performance.",
+      "details": {
+        "features": [
+          "Bibliothèque de threads utilisateur exécutée sur un seul thread noyau",
+          "Préemption optionnelle et priorités activables via flags Makefile",
+          "Suite de tests dédiée avec comparaison possible avec pthreads",
+          "Exécution Valgrind pour la validation mémoire",
+          "Génération de graphes de performance via outillage Python",
+          "Cible d'installation produisant binaires et bibliothèque partagée"
+        ],
+        "architecture": "Projet systèmes bas niveau centré sur une implémentation C du runtime de threads, accompagné d'une suite de tests, d'artefacts d'installation et d'un outil Python pour la visualisation des performances. Des macros de compilation permettent d'activer la préemption, les priorités ou la comparaison avec pthreads.",
+        "techStack": [
+          { "name": "C", "role": "Implémentation système de la bibliothèque de threads" },
+          { "name": "Python", "role": "Génération de graphes de performance et outillage" }
+        ]
+      }
+    },
+    "aquarium": {
+      "title": "Simulation d'Aquarium de Poissons",
+      "description": "Projet académique de simulation structuré entre modules client et contrôleur, combinant des composants en C et en Java.",
+      "details": {
+        "features": [
+          "Projet de simulation découpé entre modules Client et Controller",
+          "Code académique multi-langage combinant C et Java",
+          "Structure de dépôt alignée sur un workflow de simulation piloté par contrôleur",
+          "Implémentation focalisée sur la logique de simulation plutôt que sur l'interface"
+        ],
+        "architecture": "Architecture académique orientée simulation avec des composants client et contrôleur séparés. Le code mélange C et Java afin de structurer la couche d'exécution et la logique de contrôle comme modules distincts.",
+        "techStack": [
+          { "name": "C", "role": "Composants systèmes et coeur de simulation" },
+          { "name": "Java", "role": "Logique applicative complémentaire" }
+        ]
+      }
+    },
+    "tower": {
+      "title": "Tower Defense",
+      "description": "Projet de programmation impérative autour d'un tower defense, développé en TypeScript avec assets navigateur et tests basés sur Jest.",
+      "details": {
+        "features": [
+          "Jeu de tower defense construit à partir d'une spécification de programmation impérative",
+          "Implémentation gameplay majoritairement en TypeScript avec support JavaScript",
+          "Tests automatisés configurés avec Jest et ts-jest",
+          "Packaging navigateur via Parcel",
+          "Dépôt séparé entre code, tests, assets HTML et fichiers de rapport"
+        ],
+        "architecture": "Projet de jeu issu d'un cours, avec une surface HTML pour le navigateur, un coeur d'implémentation TypeScript, des tests basés sur Jest et Parcel comme outil de bundling. Le dépôt inclut aussi un rapport et les scripts de build nécessaires au rendu final.",
+        "techStack": [
+          { "name": "TypeScript", "role": "Langage principal de la logique de jeu" },
+          { "name": "JavaScript", "role": "Compatibilité runtime et support outillage" },
+          { "name": "HTML", "role": "Couche d'intégration navigateur" }
+        ]
+      }
+    },
+    "amazons": {
+      "title": "Amazons",
+      "description": "Implémentation en C du projet de jeu Amazons, livrée avec tests, automatisation de build et éléments de rapport.",
+      "details": {
+        "features": [
+          "Implémentation du projet de jeu Amazons en programmation impérative",
+          "Code C accompagné de tests, artefacts d'installation et matériaux de rapport",
+          "Workflow de build et d'évaluation piloté par Makefile",
+          "Dépôt structuré à la fois pour la logique de jeu et les livrables académiques"
+        ],
+        "architecture": "Projet académique en C organisé autour des fichiers source, des tests, des sorties d'installation et des éléments de rapport. La structure suit un workflow guidé par spécification où l'automatisation du build et la vérification font partie du livrable final.",
+        "techStack": [
+          { "name": "C", "role": "Logique centrale du jeu et exécution" }
+        ]
+      }
+    },
+    "mansuba": {
+      "title": "Mansuba",
+      "description": "Projet de programmation en C guidé par une spécification, avec code source, tests, automatisation Makefile et livrables de rapport.",
+      "details": {
+        "features": [
+          "Projet en C guidé par une spécification dans le cursus ENSEIRB",
+          "Dépôt structuré avec code source, tests, Makefile et sorties de rapport",
+          "Organisation académique pensée pour un build et une évaluation reproductibles",
+          "Implémentation centrée sur les fondamentaux de la programmation bas niveau"
+        ],
+        "architecture": "Projet C organisé autour d'une structure académique classique avec sources, tests, artefacts de rapport et automatisation Makefile. Le dépôt reflète un processus orienté spécification où code, tests et documentation évoluent ensemble.",
+        "techStack": [
+          { "name": "C", "role": "Langage principal d'implémentation" }
+        ]
+      }
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Travaillons ensemble",
+    "description": "N'hésitez pas à me contacter pour discuter de vos projets, d'opportunités ou simplement pour échanger.",
+    "cta": {
+      "title": "Un projet, une opportunité ou juste un bon échange ?",
+      "description": "Vous pouvez me contacter par email ou via mes profils sur les réseaux sociaux.",
+      "button": "Envoyer un email",
+      "mailSubject": "Contact portfolio"
+    },
+    "form": {
+      "name": "Nom",
+      "namePlaceholder": "Votre nom",
+      "email": "Email",
+      "emailPlaceholder": "votre@email.com",
+      "message": "Message",
+      "messagePlaceholder": "Votre message...",
+      "send": "Envoyer le message",
+      "sending": "Envoi en cours...",
+      "success": "Message envoyé avec succès !",
+      "error": "Erreur lors de l'envoi. Veuillez réessayer.",
+      "mailSubject": "Contact portfolio de {name}",
+      "mailNameLabel": "Nom",
+      "mailEmailLabel": "Email"
+    },
+    "info": {
+      "email": "Email",
+      "phone": "Téléphone",
+      "location": "Localisation",
+      "social": "Réseaux sociaux",
+      "copy": "Copier",
+      "copied": "Copié",
+      "copyEmail": "Copier l'adresse email",
+      "copyPhone": "Copier le numéro"
+    }
+  },
+  "footer": {
+    "rights": "Tous droits réservés.",
+    "madeWith": "Fait avec",
+    "backToTop": "Retour en haut",
+    "quickLinks": "Liens rapides",
+    "tagline": "Développeur Full-Stack"
+  },
+  "common": {
+    "downloadCV": "Télécharger CV",
+    "present": "Présent",
+    "scrollDown": "Défiler vers le bas",
+    "months": {
+      "01": "Jan", "02": "Fév", "03": "Mar", "04": "Avr",
+      "05": "Mai", "06": "Juin", "07": "Juil", "08": "Aoû",
+      "09": "Sep", "10": "Oct", "11": "Nov", "12": "Déc"
+    }
+  },
+  "notFoundPage": {
+    "title": "Page introuvable",
+    "goHome": "Retour à l'accueil"
+  },
+  "locations": {
+    "bordeaux": "Bordeaux, France",
+    "eindhoven": "Eindhoven, Pays-Bas",
+    "rabat": "Rabat, Maroc"
+  }
+}

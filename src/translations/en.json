@@ -1,0 +1,470 @@
+{
+  "metadata": {
+    "title": "Mohamed Dyae Chellaf | Full-Stack Developer",
+    "description": "Portfolio of Mohamed Dyae Chellaf - Software Engineering Student, passionate about Full-Stack Development and modern architectures."
+  },
+  "nav": {
+    "about": "About",
+    "skills": "Skills",
+    "experience": "Experience",
+    "projects": "Projects",
+    "education": "Education",
+    "contact": "Contact"
+  },
+  "aria": {
+    "toggleMenu": "Toggle menu",
+    "toggleTheme": "Toggle theme",
+    "changeLanguage": "Change language"
+  },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Mohamed Dyae Chellaf",
+    "title": "Full-Stack Developer",
+    "subtitle": "Software Engineering student at ENSEIRB-MATMECA, passionate about building modern, scalable, and elegant web applications.",
+    "cta": {
+      "projects": "View Projects",
+      "cv": "Download CV",
+      "contact": "Contact Me"
+    }
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "Get to know me",
+    "p1": "I'm a passionate Full-Stack Developer currently in my final year of Computer Science Engineering, specializing in Software Engineering at ENSEIRB-MATMECA Bordeaux-INP. My journey has allowed me to develop strong expertise in designing and building modern web applications.",
+    "p2": "With experiences in France and internationally (Netherlands), I have strong skills in microservices architectures, front-end and back-end development, as well as DevOps and Cloud practices. I strive to combine technical rigor and creativity to deliver elegant and high-performance solutions.",
+    "p3": "Passionate about technological innovation, I'm always looking for new challenges that push my boundaries and allow me to contribute to projects with real impact.",
+    "educationTitle": "Academic Journey",
+    "educationSubtitle": "Education is now grouped here to keep the page more compact.",
+    "seeEducation": "View education",
+    "hideEducation": "Hide education",
+    "values": {
+      "title": "My Values",
+      "quality": "Code Quality",
+      "qualityDesc": "Clean code, testing, and best practices",
+      "innovation": "Innovation",
+      "innovationDesc": "Modern technologies and creative solutions",
+      "collaboration": "Collaboration",
+      "collaborationDesc": "Teamwork and effective communication",
+      "learning": "Continuous Learning",
+      "learningDesc": "Tech watch and constant improvement"
+    }
+  },
+  "skills": {
+    "title": "Skills",
+    "subtitle": "Technologies & tools",
+    "categories": {
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "databases": "Databases",
+      "languages": "Languages",
+      "cloud": "Cloud",
+      "devops": "DevOps",
+      "tools": "Tools",
+      "testing": "Testing",
+      "ai": "AI"
+    },
+    "seeAll": "See all",
+    "showLess": "Show less"
+  },
+  "experience": {
+    "title": "Experience",
+    "subtitle": "My professional journey"
+  },
+  "experiences": {
+    "atos": {
+      "position": "Full-Stack Developer - Orion IS Transformation",
+      "type": "Internship",
+      "endDate": "Present",
+      "desc1": "Contributes to the redesign of the Orion information system, a modular and scalable ERP built on a microservices architecture, supporting the current and future needs of the Oui Care Group.",
+      "desc2": "Participates in the technical and functional design of a platform integrating CRM, HR, and SAP-based operational systems for personal services activities.",
+      "desc3": "Develops backend and frontend features using Spring Boot and Angular, with a strong focus on unit testing, code quality, and maintainability.",
+      "desc4": "Takes part in deployment and service industrialization within a cloud-based AWS environment.",
+      "desc5": "Works in an Agile development environment, actively participating in sprint ceremonies and collaboration with cross-functional teams.",
+      "desc6": "Contributes to business-critical modules related to billing, payroll, and accounting across the group's different brands."
+    },
+    "labri": {
+      "position": "AI Web Developer Engineer",
+      "type": "Internship",
+      "desc1": "Developed a cartographic web interface to visualize over 25,000 collision alerts in real-time (Next.js, React, Leaflet, FastAPI).",
+      "desc2": "Designed, labeled, and trained a collision risk detection module using Machine Learning (Random Forest, Python, scikit-learn).",
+      "desc3": "Integrated real-time data pipelines for processing and displaying geolocated alerts."
+    },
+    "vtec": {
+      "position": "UX Designer & Full-Stack Developer",
+      "type": "Internship",
+      "desc1": "Analyzed requirements and drafted functional specifications for new web platform features.",
+      "desc2": "Designed user interfaces in Figma, ensuring strong UX/UI consistency, accessibility, and visual coherence.",
+      "desc3": "Developed the front-end with Angular and Bootstrap, focusing on responsive and intuitive design.",
+      "desc4": "Built a robust REST API using Node.js and Express for efficient data management and secure communication.",
+      "desc5": "Integrated AWS DynamoDB (NoSQL) for storage and implemented user authentication with AWS Cognito.",
+      "desc6": "Managed data flow through AWS SDK and API Gateway, ensuring scalability and reliability.",
+      "desc7": "Collaborated within an international English-speaking team, participating in weekly scrums and code reviews.",
+      "desc8": "Applied Agile methodology with continuous integration, iterative development, and cross-functional collaboration.",
+      "desc9": "Contributed to technical documentation and continuous improvement of the product lifecycle."
+    },
+    "rabat": {
+      "position": "Software & Network Systems Developer",
+      "type": "Internship",
+      "desc1": "Gained hands-on experience with the company's technical environment and internal management tools.",
+      "desc2": "Analyzed the local network and backend server architecture to improve data centralization and file sharing.",
+      "desc3": "Contributed to updating internal databases, digitizing administrative documents, and modernizing internal processes."
+    }
+  },
+  "education": {
+    "title": "Education",
+    "subtitle": "My academic journey",
+    "enseirb": {
+      "degree": "Engineering Degree in Computer Science, Software Engineering",
+      "startDate": "Sep 2022",
+      "endDate": "Jan 2026",
+      "desc1": "Core computer science curriculum covering algorithms, data structures, language theory, computability, complexity, and logic.",
+      "desc2": "Programming across C, C++, Java, Python, and JavaScript with object-oriented, functional, and systems approaches.",
+      "desc3": "Artificial intelligence modules including machine learning, deep learning, and neural networks such as CNNs and RNNs.",
+      "desc4": "Systems and networks coursework spanning operating systems, TCP/IP architecture, and peer-to-peer application development.",
+      "desc5": "Software engineering training focused on agile methodologies, software design and architecture, and project management.",
+      "desc6": "Mathematics for computer science with probability, statistics, and operations research."
+    },
+    "ibnGhazi": {
+      "degree": "Preparatory Classes for Engineering Schools (CPGE), Mathematics and Physics",
+      "startDate": "Sep 2021",
+      "endDate": "Aug 2022",
+      "highlight": "MP* · Ranked 208th out of 2,487 in CNC, admitted to CCP, eligible for CentraleSupelec.",
+      "desc1": "Advanced preparation in mathematics and physics within the MP* track, consolidating exam performance and readiness for competitive engineering school admissions."
+    },
+    "moulayYoussef": {
+      "degree": "Preparatory Classes for Engineering Schools (CPGE), Mathematics and Physics",
+      "startDate": "Sep 2019",
+      "endDate": "Jul 2021",
+      "highlight": "Ranked 345th out of 2,579 in CNC Morocco · Admitted to CCP.",
+      "desc1": "Intensive scientific training in mathematics, physics, and computer science for Moroccan and French engineering school entrance exams.",
+      "desc2": "Advanced mathematics curriculum covering analysis, algebra, and probability.",
+      "desc3": "Fundamental physics coursework in mechanics, electromagnetism, thermodynamics, and optics.",
+      "desc4": "Computer science and algorithmics with Python programming, data structures, rigor, and complex problem solving."
+    },
+    "hassan": {
+      "degree": "Scientific high school track, Mathematical Sciences",
+      "desc1": "First year of the baccalaureate in mathematical sciences.",
+      "desc2": "Second year of the baccalaureate in Mathematical Sciences A."
+    }
+  },
+  "projects": {
+    "title": "Projects",
+    "subtitle": "My work",
+    "viewCode": "Source Code",
+    "viewDemo": "Live Demo",
+    "viewWebsite": "Website",
+    "viewReport": "Report",
+    "backToProjects": "Back to projects",
+    "notFound": "Project not found",
+    "techStack": "Tech Stack",
+    "architecture": "Architecture",
+    "features": "Key Features",
+    "technologies": "Technologies",
+    "seeAll": "See all",
+    "showLess": "Show less",
+    "traffic": {
+      "title": "Campus Traffic Observatory",
+      "description": "Client-side cartographic application built with SolidJS, Vite, and MapLibre GL for real-time visualization of campus mobility data: traffic, public transport, parking, bikes, weather, and air quality.",
+      "details": {
+        "features": [
+          "Interactive 2D/3D map powered by MapLibre GL JS with terrain elevation and WebGL rendering",
+          "Real-time public transport tracking (Trams & Buses) via GTFS-Realtime Protobuf decoding",
+          "Traffic analysis with Z-score normalization and color-coded road segments",
+          "Animated traffic simulation with cars moving along GeoJSON LineStrings using Turf.js",
+          "Weather widget with AQI calculation following US-EPA standards (PM2.5, PM10, NO2, O3)",
+          "Multimodal fuzzy search using Fuse.js in Web Workers with Nominatim geocoding fallback",
+          "GTFS data pipeline compressing 160 Mo+ of transit data into optimized JSON at build time",
+          "Parking and bike-sharing (VCUB) station availability from Bordeaux Métropole open data",
+          "4-level test strategy: unit (Vitest), integration, component, and E2E (Playwright)",
+          "CI/CD with GitHub Actions, Vercel edge deployment, and proxy rewrites for CORS handling"
+        ],
+        "architecture": "Client-side SPA built with SolidJS and Vite for fine-grained reactivity without a virtual DOM. MapLibre GL JS handles WebGL-based 2D/3D cartographic rendering. Data sourced from CEREMA, TBM GTFS, open-meteo, Bordeaux Métropole, and Overpass/OSM APIs, pre-processed at build time. Real-time polling via Vite proxy (30s GTFS-RT, 5m parking). Search runs off-thread in Web Workers with Fuse.js. Deployed on Vercel edge CDN.",
+        "techStack": [
+          { "name": "SolidJS", "role": "Reactive UI framework with signals and fine-grained DOM updates" },
+          { "name": "TypeScript", "role": "Type-safe application logic across frontend and build scripts" },
+          { "name": "Vite", "role": "Build tool with HMR, proxy for CORS, and pre-build data pipeline" },
+          { "name": "MapLibre GL", "role": "WebGL-powered 2D/3D interactive map with custom layers" }
+        ]
+      }
+    },
+    "campus": {
+      "title": "Campus Mobility Analysis",
+      "description": "React cartographic interface for campus mobility data analysis and visualization, with video processing and metrics extraction via Python/YOLO.",
+      "details": {
+        "features": [
+          "Interactive Leaflet map with OpenStreetMap tiles for campus sensor visualization",
+          "Dual interface with Receiver mode for imports and sensor management, and Simulator mode for analytics",
+          "Vehicle detection from videos using YOLOv11 combined with ByteTrack tracking",
+          "Custom fine-tuning to add scooter detection to the base model",
+          "Statistical filtering using z-score normalization to remove anomalies and duplicates",
+          "D3.js charts for temporal series and vehicle-type distribution",
+          "Heatmap visualization with quantile-based traffic density coloring",
+          "FastAPI backend handling sensor CRUD, CSV uploads, and aggregated statistics",
+          "Multi-threaded video processing for long recordings",
+          "Agile project organization with weekly sprints and client reviews"
+        ],
+        "architecture": "Client-server architecture with a Next.js frontend built on React and TypeScript, Leaflet for mapping, and D3.js for data visualization. The backend is a Python FastAPI REST API connected to PostgreSQL through SQLAlchemy. Video analysis relies on YOLOv11 and ByteTrack, and the platform is organized around Receiver and Simulator workflows.",
+        "techStack": [
+          { "name": "Next.js", "role": "Frontend framework with routing and rendering optimizations" },
+          { "name": "React", "role": "Component-driven UI and state management" },
+          { "name": "Leaflet", "role": "Interactive mapping with markers, popups, and heatmaps" },
+          { "name": "D3.js", "role": "Custom analytical charts and distributions" },
+          { "name": "FastAPI", "role": "Python REST API with documented endpoints" },
+          { "name": "Python", "role": "Backend logic, analytics, and video-processing scripts" },
+          { "name": "YOLO", "role": "Real-time object detection for mobility analysis" },
+          { "name": "PostgreSQL", "role": "Persistent storage for sensors and aggregated data" }
+        ]
+      }
+    },
+    "transport": {
+      "title": "Holitrip - Travel Planning App",
+      "description": "Modular Java travel-planning application combining transport routing (BFS), hotels, and activities. Built with clean architecture, 124 tests, 93% coverage (JaCoCo), and 77% mutation score (PIT).",
+      "details": {
+        "features": [
+          "Transport search with BFS-based multi-leg routing and connection constraints",
+          "Hotel search by city, minimum rating, and budget limits",
+          "Activity search with category filtering and Haversine-distance proximity checks",
+          "Automatic package building combining transport, lodging, and activities",
+          "Geocoding integration for address-to-coordinate conversion",
+          "107 isolated unit tests using mocks and dependency injection",
+          "17 integration tests validating service interactions end to end",
+          "JaCoCo coverage reaching 93% on instructions and 91% on lines",
+          "PIT mutation analysis with a 77% kill rate",
+          "Service-based architecture designed for maintainability and testability",
+          "TDD methodology: tests written before implementation to drive design decisions"
+        ],
+        "architecture": "Modular Java 17 application built with Maven and organized around service interfaces plus dedicated implementations. The core domain combines transport routing, hotel search, activity search, geocoding, distance calculation, and package assembly. The design favors dependency injection and test doubles, while JSON files provide the project data sources.",
+        "techStack": [
+          { "name": "Java", "role": "Core language for the business logic and clean architecture" },
+          { "name": "Maven", "role": "Build tool and dependency orchestration" },
+          { "name": "JUnit 5", "role": "Unit and integration test framework" },
+          { "name": "JaCoCo", "role": "Code-coverage analysis tooling" },
+          { "name": "PIT", "role": "Mutation-testing framework" },
+          { "name": "TDD", "role": "Test-Driven Development methodology guiding implementation" }
+        ]
+      }
+    },
+    "collision": {
+      "title": "AI Collision Detection",
+      "description": "Interactive road-safety platform visualizing 25,000+ CAM/DENM collision alerts on a Leaflet map, with a FastAPI backend and a scikit-learn random-forest prediction pipeline.",
+      "details": {
+        "features": [
+          "Interactive Leaflet map for vehicles, buses, cyclists, and DENM events",
+          "Filtering by alert type and station ID with dynamic legend updates",
+          "Visualization of more than 25,000 alerts extracted from CAM and DENM messages",
+          "FastAPI backend serving partitioned JSON datasets for smooth browsing",
+          "Collision-risk prediction based on CAM-derived features",
+          "Automatic generation of proximity pairs using spatial and temporal thresholds",
+          "Rule-based auto-labeling with speed, heading, and distance heuristics",
+          "RandomForestClassifier training pipeline with exported joblib model",
+          "Prediction script producing `predicted_collision` outputs for new samples",
+          "Evaluation with classification report, confusion matrix, and precision above 0.94"
+        ],
+        "architecture": "Two-part platform combining a web application and a machine-learning pipeline. The web layer uses Next.js, React Leaflet, and CSS Modules, while the backend relies on FastAPI and locally stored JSON datasets. In parallel, a Python pipeline preprocesses trajectories, generates candidate pairs, labels collisions, trains a scikit-learn Random Forest model, and applies predictions to new situations.",
+        "techStack": [
+          { "name": "Next.js", "role": "Frontend application shell and routing" },
+          { "name": "Leaflet", "role": "Interactive alert visualization on the map" },
+          { "name": "FastAPI", "role": "Backend API serving filtered alert datasets" },
+          { "name": "Python", "role": "Data processing, scripting, and backend logic" },
+          { "name": "scikit-learn", "role": "Model training and prediction workflows" },
+          { "name": "Random Forest", "role": "Classifier used to estimate collision risk" },
+          { "name": "Machine Learning", "role": "Supervised risk-detection approach built from CAM features" }
+        ]
+      }
+    },
+    "realEstate": {
+      "title": "Real Estate Listings Manager",
+      "description": "Full-stack CRUD application for property listings, built with React + Vite and an Express + TypeScript backend validated with Zod.",
+      "details": {
+        "features": [
+          "Full CRUD flow for property listings",
+          "Layered Express API with routes, services, schemas, and middleware",
+          "Centralized input validation through reusable Zod middleware",
+          "React + Vite frontend with listing, detail, and form pages",
+          "Modern glassmorphism-inspired UI with reusable cards and modal dialogs",
+          "JSON persistence in `backend/data/properties.json`"
+        ],
+        "architecture": "Full-stack TypeScript application with an Express backend and a React + Vite frontend. The backend separates routes, services, models, schemas, and validation middleware, while the frontend is organized around pages, reusable components, API services, and shared types.",
+        "techStack": [
+          { "name": "React", "role": "Frontend UI and routed pages" },
+          { "name": "TypeScript", "role": "Strong typing on both frontend and backend" },
+          { "name": "Express", "role": "REST API and request handling" },
+          { "name": "Zod", "role": "Payload validation and DTO consistency" },
+          { "name": "Vite", "role": "Frontend tooling and fast development server" }
+        ]
+      }
+    },
+    "budget": {
+      "title": "Selego Budget Tracker",
+      "description": "Budget management platform for projects and expenses with dashboards, notifications, email alerts, and AI-assisted expense categorization.",
+      "details": {
+        "features": [
+          "Project and expense management with budget tracking",
+          "Dashboard with statistics and budget-overrun visibility",
+          "Notification center with automatic email alerts",
+          "AI-assisted expense categorization",
+          "History, settings, search, and help center pages",
+          "JWT-based authentication with protected API access"
+        ],
+        "architecture": "Two-part JavaScript platform with a React frontend and a Node.js plus Express backend backed by MongoDB. The backend isolates third-party services such as Brevo, Passport, AI categorization, and S3 uploads, while the frontend centralizes API access and client state around reusable workflows.",
+        "techStack": [
+          { "name": "React", "role": "Frontend interface for dashboards and workflows" },
+          { "name": "Tailwind CSS", "role": "Utility-first styling layer" },
+          { "name": "Node.js", "role": "Backend runtime for the API" },
+          { "name": "MongoDB", "role": "Persistence for users, projects, and expenses" },
+          { "name": "JWT", "role": "Authentication and protected access" },
+          { "name": "AWS", "role": "S3-backed file upload integration" }
+        ]
+      }
+    },
+    "threads": {
+      "title": "User-Space Threads Library",
+      "description": "C implementation of a user-space threading library with optional preemption, priority handling, tests, Valgrind checks, and performance graphs.",
+      "details": {
+        "features": [
+          "User-space thread library running on top of a single kernel thread",
+          "Optional preemption and thread priorities enabled through Makefile flags",
+          "Dedicated test suite with pthread comparison targets",
+          "Valgrind execution for memory validation",
+          "Performance graph generation through Python tooling",
+          "Install target producing binaries and a shared library"
+        ],
+        "architecture": "Low-level systems project centered on a C implementation of the threading runtime, supported by a test suite, installation outputs, and a Python tool for performance visualization. Build-time macros switch between feature variants such as preemption, priorities, and pthread comparison.",
+        "techStack": [
+          { "name": "C", "role": "Systems-level implementation of the threading library" },
+          { "name": "Python", "role": "Performance-graph generation and tooling support" }
+        ]
+      }
+    },
+    "aquarium": {
+      "title": "Fish Aquarium Simulation",
+      "description": "Simulation-oriented academic project split between client and controller modules, combining C and Java components.",
+      "details": {
+        "features": [
+          "Simulation project split into Client and Controller modules",
+          "Mixed-language academic codebase combining C and Java",
+          "Repository structure aligned with a controller-driven simulation workflow",
+          "Implementation focused on simulation logic over UI presentation"
+        ],
+        "architecture": "Simulation-oriented academic architecture with separate client and controller components. The codebase combines C and Java to structure the execution layer and the control logic as independent modules.",
+        "techStack": [
+          { "name": "C", "role": "Core systems and simulation components" },
+          { "name": "Java", "role": "Complementary application-side logic" }
+        ]
+      }
+    },
+    "tower": {
+      "title": "Tower Defense",
+      "description": "Imperative-programming tower-defense project built with TypeScript, browser assets, and a Jest-based test setup.",
+      "details": {
+        "features": [
+          "Tower-defense game built from an imperative-programming specification",
+          "TypeScript-heavy gameplay implementation with JavaScript runtime support",
+          "Automated tests configured through Jest and ts-jest",
+          "Parcel-based browser packaging",
+          "Repository separated into implementation, tests, HTML assets, and report files"
+        ],
+        "architecture": "Course-driven game project with an HTML browser surface, a TypeScript core implementation, Jest-based tests, and Parcel as the bundling tool. The repository also includes a report and build scripts for the deliverable.",
+        "techStack": [
+          { "name": "TypeScript", "role": "Main language for the gameplay logic" },
+          { "name": "JavaScript", "role": "Runtime compatibility and tooling support" },
+          { "name": "HTML", "role": "Browser integration layer" }
+        ]
+      }
+    },
+    "amazons": {
+      "title": "Amazons",
+      "description": "C implementation of the Amazons board-game project, delivered with tests, build automation, and report assets.",
+      "details": {
+        "features": [
+          "Imperative-programming implementation of the Amazons board-game project",
+          "C codebase paired with tests, install artifacts, and report materials",
+          "Makefile-driven build and evaluation workflow",
+          "Repository structured for both game logic and academic deliverables"
+        ],
+        "architecture": "Academic C project organized around source files, tests, installation outputs, and written report assets. The structure follows a spec-driven workflow where build automation and verification are part of the final deliverable.",
+        "techStack": [
+          { "name": "C", "role": "Core board-game logic and execution" }
+        ]
+      }
+    },
+    "mansuba": {
+      "title": "Mansuba",
+      "description": "Specification-driven C programming project with source code, tests, Makefile automation, and report deliverables.",
+      "details": {
+        "features": [
+          "Specification-driven C project developed in the ENSEIRB curriculum",
+          "Structured repository with source code, tests, Makefile, and report outputs",
+          "Academic layout designed for reproducible build and evaluation workflows",
+          "Implementation centered on low-level programming fundamentals"
+        ],
+        "architecture": "C project organized around a classic academic structure with source files, tests, report assets, and Makefile-based automation. The repository reflects a spec-first process where code, tests, and documentation evolve together.",
+        "techStack": [
+          { "name": "C", "role": "Main implementation language" }
+        ]
+      }
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Let's work together",
+    "description": "Feel free to reach out to discuss your projects, opportunities, or just to connect.",
+    "cta": {
+      "title": "A project, an opportunity, or simply a good conversation?",
+      "description": "You can contact me by email or through my social media profiles.",
+      "button": "Send an email",
+      "mailSubject": "Portfolio contact"
+    },
+    "form": {
+      "name": "Name",
+      "namePlaceholder": "Your name",
+      "email": "Email",
+      "emailPlaceholder": "your@email.com",
+      "message": "Message",
+      "messagePlaceholder": "Your message...",
+      "send": "Send Message",
+      "sending": "Sending...",
+      "success": "Message sent successfully!",
+      "error": "Error sending message. Please try again.",
+      "mailSubject": "Portfolio contact from {name}",
+      "mailNameLabel": "Name",
+      "mailEmailLabel": "Email"
+    },
+    "info": {
+      "email": "Email",
+      "phone": "Phone",
+      "location": "Location",
+      "social": "Social Media",
+      "copy": "Copy",
+      "copied": "Copied",
+      "copyEmail": "Copy email address",
+      "copyPhone": "Copy phone number"
+    }
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "madeWith": "Made with",
+    "backToTop": "Back to top",
+    "quickLinks": "Quick Links",
+    "tagline": "Full-Stack Developer"
+  },
+  "common": {
+    "downloadCV": "Download CV",
+    "present": "Present",
+    "scrollDown": "Scroll down",
+    "months": {
+      "01": "Jan", "02": "Feb", "03": "Mar", "04": "Apr",
+      "05": "May", "06": "Jun", "07": "Jul", "08": "Aug",
+      "09": "Sep", "10": "Oct", "11": "Nov", "12": "Dec"
+    }
+  },
+  "notFoundPage": {
+    "title": "Page not found",
+    "goHome": "Go home"
+  },
+  "locations": {
+    "bordeaux": "Bordeaux, France",
+    "eindhoven": "Eindhoven, Netherlands",
+    "rabat": "Rabat, Morocco"
+  }
+}
