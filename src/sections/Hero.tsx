@@ -102,7 +102,7 @@ export function Hero() {
 
           <a
             href="/cv.pdf"
-            download
+            download="Mohamed-Dyae-Chellaf-CV.pdf"
             className="group inline-flex cursor-pointer items-center gap-2 rounded-xl border border-surface-300 bg-white px-6 py-3 text-sm font-semibold text-surface-700 shadow-sm transition-all hover:border-surface-400 hover:bg-surface-50 dark:border-surface-700 dark:bg-surface-800 dark:text-surface-300 dark:hover:border-surface-600 dark:hover:bg-surface-700"
           >
             <Download className="h-4 w-4 transition-transform group-hover:-translate-y-0.5" />
